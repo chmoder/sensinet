@@ -1,0 +1,7 @@
+This is some source code for a project I was working on that involved in.
+It involved connecting two arduino devices with an Xbee.  One device counts
+and transmits how much water has passed to the irrigation device.  The other
+receives the data via Xbee and pushes it to USB.  The source code I have
+released connects to a mysql database in C and adds records from the Xbee
+device real time.  This may be incomplete for your purposes but is a good
+start and may offer hints if your looking for help.
